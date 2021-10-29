@@ -31,7 +31,7 @@ Both the script and notebook do the same thing, but the VCF input needs to be ma
 #### Bioinformatic tools
 - `bcftools`
 ### Part 0: Input
-The notebook takes the VCF file and the VCF output filename prefix as inputs. <br> Example: <br>
+The notebook takes the VCF file and the VCF output filename prefix as inputs. This needs to be manually edited in cell 9. The Python script takes VCF file, VCF output name, and optional verbose option as inputs through the command line. <br> Example: <br>
 `vcf = "Challenge_data_renamed.vcf"` <br>
 `file_prefix = "Challenge_data"`
 ### Part 1: Exploratory analysis
