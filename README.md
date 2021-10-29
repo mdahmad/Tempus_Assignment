@@ -17,6 +17,10 @@ http://exac.hms.harvard.edu/).
 
 #### Annotation workflow
 The notebook contains three steps: 1) exploratory analysis, 2) reading and preparing the VCF, and 3) annotating the VCF. 
+#### Python libraries
+- `pandas`
+#### Bioinformatic tools
+- `bcftools`
 ### Part 0: Input
 The notebook takes the VCF file and the VCF output filename prefix as inputs. <br> Example: <br>
 `vcf = "Challenge_data_renamed.vcf"` <br>
