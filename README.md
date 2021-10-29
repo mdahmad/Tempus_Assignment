@@ -19,7 +19,7 @@ http://exac.hms.harvard.edu/).
 The notebook contains three steps: 1) exploratory analysis, 2) reading and preparing the VCF, and 3) annotating the VCF. 
 #### Repository contents
 - `tempus_challenge.py` is a script which takes VCF input through the command line
-- `Tempus.ipynb` is a Python Notebook which describes the script above
+- `Tempus.ipynb` is a Python Notebook which describes the script above. It is slightly more readable. 
 
 Both the script and notebook do the same thing, but the VCF input needs to be manually written in the notebook, whereas the script can take the input from the command line.
 
