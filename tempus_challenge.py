@@ -8,7 +8,6 @@ import pandas as pd
 import argparse
 
 
-# +
 ### Part 1: Exploratory analysis
 ### Understand the current contents on the input VCF
 def part1_exploratory_analysis(vcf,prefix,verbose):
